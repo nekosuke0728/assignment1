@@ -1,0 +1,213 @@
+/*tablet & pc size*/
+
+@media screen and (min-width:768px) {
+
+	#top-menu a:hover {
+    color: white;
+    background-color: #FF8525;
+	}
+
+	#logo {
+		height: 40px;
+	}
+
+	.container {
+		width: 1010px;
+	} 
+
+	.navbar-inverse .navbar-nav>li>a span {
+		font-size: 16px;
+	}
+
+	.navbar-nav {
+		margin-right: 40px;
+		text-align: center;
+	}
+
+	.navbar-nav>li>a {
+		width: 145px;
+		height: 80px;
+		padding: 15px 30px;
+		line-height: 25px;
+	}
+
+	.header-container {
+		margin-right: 27px;
+		margin-left: 27px;
+	}
+
+	.firstview-fream {
+		padding: 20px;
+		margin: 70px 0 100px 0;
+	}
+
+	.catchcopy-box {
+		margin-top: 10px;
+		margin-bottom: 0;
+	}
+
+	.catchcopy-message {
+		margin-bottom: 10px;
+		font-size: 32px;
+		line-height: 55px;
+	}
+
+	.title-orange {
+		padding-top: 20px;
+		padding-bottom: 20px;
+		margin: 0 auto 40px;
+		border-bottom: 1px solid #eee;
+		font-size: 30px;
+	}
+
+	.title-white {
+		padding-top: 20px;
+		padding-bottom: 20px;
+		font-size: 30px;
+	}
+
+	.title-orange-eventinfomation {
+		padding-top: 60px;
+	}
+
+	.news {
+		padding-right: 25px;
+		padding-left: 25px; 
+	}
+
+	.services-comment {
+		padding-right: 20px;
+		margin-left: 20px;
+		margin-bottom: 15px;	
+	}
+
+	.bg-white,.navbar-header {
+		height: 80px;
+	}
+
+	.bg-no-grid {
+		padding-bottom: 70px;
+	}
+
+	.bg-news {
+		padding-bottom: 95px;
+	}
+
+	.bg-mentor {
+		padding-top: 68px;
+		padding-bottom: 23px;
+	}
+
+	.bg-services {
+		padding-top: 40px;
+	}
+
+	.bg-recruit {
+		padding-top: 65px;
+	}
+
+	.mediabox {
+		padding-top: 15px;
+		text-align: center;
+	}
+
+	.footer-menu {
+		padding-left: 20px;
+	}
+
+	.sp-br {
+		display: none;
+	}
+
+	.mentor-minititle {
+		padding-top: 5px;
+	}
+
+	.mentor-img-res {
+		display: block;
+		margin: 10px auto;
+	}
+
+	.mentor-box-yamasaki, .mentor-box-katou {
+		width: 480px;
+		height: 626px;
+		margin: 5px;
+	}
+
+    .mentor-box-yamasaki {
+    	float: left;
+    }
+
+    .mentor-box-katou {
+    	float: right;
+    }
+
+	.mentor-comment {
+		font-size: 14px;
+	}
+
+	.mentor-comment-br-sp {
+		display: none;
+	}
+
+	.mentor-comment-br-pc {
+		display: inline;
+	}
+
+	.mentor-img-res {
+		display: none;
+	}
+	
+	.mentor-img {
+		display: block;
+		max-width: 460px;
+		margin: 20px 10px;
+	}
+	
+	.mentor-yamasaki-title, .mentor-katou-title {
+		font-size: 15px;
+	}
+	
+	.white-line {
+		top: 71px;
+	}
+	
+	.mentor-comment {
+		padding-bottom: 65px;
+	}
+	
+	.mentor-career {
+		font-size: 14px;
+	}
+	
+	.mentor-name {
+		font-size: 25px;
+	}
+	
+	.recruit {
+		float: none;
+		width: 838px;
+		margin: auto;
+		text-align: center;
+	}
+	
+	.recruit-rails, .recruit-ux {
+		width: 404px;
+		height: 305px;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	
+	.recruit-box {
+		padding: 0 83px;
+	}
+
+	.recruit-rails {
+		float: left;
+	}
+	
+	.recruit-ux {
+		float: right;
+	}
+
+} 
